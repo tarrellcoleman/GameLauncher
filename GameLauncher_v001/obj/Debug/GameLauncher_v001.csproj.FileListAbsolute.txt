@@ -1,0 +1,15 @@
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\bin\Debug\GameLauncher_v001.exe.config
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\bin\Debug\GameLauncher_v001.exe
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\bin\Debug\GameLauncher_v001.pdb
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\MainWindow.g.cs
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\LauncherWindow.g.cs
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\App.g.cs
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001_MarkupCompile.cache
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001_MarkupCompile.lref
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\MainWindow.baml
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\LauncherWindow.baml
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001.g.resources
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001.Properties.Resources.resources
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001.csproj.GenerateResource.Cache
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001.exe
+C:\Users\Tarrell\Documents\Visual Studio 2015\Projects\GameLauncher_v001\GameLauncher_v001\obj\Debug\GameLauncher_v001.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="GameLauncher_v001.LauncherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameLauncher_v001"
+        mc:Ignorable="d"
+        Title="GLaunch" Height="455.833" Width="820.5" Background="Black"
+        WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+
+    <Grid Background="#FF3E3E42">
+
+        <Button x:Name="btnPlay0" ToolTip="Game Name" HorizontalAlignment="Left" Margin="64,93,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay1" ToolTip="Game Name" HorizontalAlignment="Left" Margin="217,93,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay2" ToolTip="Game Name" HorizontalAlignment="Left" Margin="370,93,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay3" ToolTip="Game Name" HorizontalAlignment="Left" Margin="523,93,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay4" ToolTip="Game Name" HorizontalAlignment="Left" Margin="677,93,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay6" ToolTip="Game Name" HorizontalAlignment="Left" Margin="217,250,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay5" ToolTip="Game Name" HorizontalAlignment="Left" Margin="64,250,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay7" ToolTip="Game Name" HorizontalAlignment="Left" Margin="370,250,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay8" ToolTip="Game Name" HorizontalAlignment="Left" Margin="523,250,0,0" VerticalAlignment="Top" Width="47" Height="53" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="btnPlay9" ToolTip="Game Name" HorizontalAlignment="Left" Margin="677,250,0,0" VerticalAlignment="Top" Width="47" Height="53"  Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="44" Click="backBtn_Click"/>
+    </Grid>
+</Window>
